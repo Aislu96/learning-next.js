@@ -1,3 +1,9 @@
+export const metadata = {
+    title: "Страница про нас",
+    description: "Страница про нас",
+    keywords: "",
+};
+
 export default function Home() {
     return (
         <div>
